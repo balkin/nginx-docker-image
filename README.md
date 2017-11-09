@@ -1,2 +1,6 @@
 # nginx-docker-image
-Nginx docker image. Works with ngx_pagespeed module to optimize the hosted websites
+
+Nginx with Google PageSpeed module (ngx_pagespeed).
+This image is optimized to pass the https://developers.google.com/speed/pagespeed/insights/
+
+Based on default nginx docker image, and fully compatible with it.
